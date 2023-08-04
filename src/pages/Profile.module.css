@@ -1,0 +1,59 @@
+.container {
+  padding: 10;
+  height: 100vh;
+}
+
+.container2 {
+  padding: 5;
+  height: 100%;
+}
+
+.button {
+  top: 50%;
+  /* align-items: center;
+  justify-content: center; */
+}
+
+.homeHeading {
+  color: #00ffff;
+  padding-left: 5px;
+  padding-top: 5px;
+}
+
+.workHeading {
+  color: #004dcf;
+}
+
+.link {
+  color: #ff00ff;
+}
+
+.heading {
+  color: blue;
+}
+
+.user {
+  color: green;
+}
+
+.table {
+  border: 2px solid black;
+  border-spacing: 0;
+  width: 100%;
+}
+
+th {
+  border-bottom: 1px solid black;
+  border-right: 2px solid black;
+}
+
+tr {
+  border: 2px solid black;
+}
+
+td {
+  border-right: 2px solid black;
+  align-items: center;
+  padding: 1rem;
+  border-bottom: 2px solid black;
+}
